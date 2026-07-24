@@ -43,6 +43,6 @@ Application screenshots are available here:
 
 <div align="center">
   
-<img src="assets/Screenshots.PNG" width="700">
+<img src="assets/Screenshots.PNG" width="400">
 
 </div>
