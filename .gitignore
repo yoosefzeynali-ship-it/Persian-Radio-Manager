@@ -1,1 +1,13 @@
+__pycache__/
+*.pyc
 
+build/
+dist/
+
+downloads/
+backup/
+temp/
+
+*.spec
+
+config/installed_version.txt
