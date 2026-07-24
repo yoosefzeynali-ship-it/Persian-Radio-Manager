@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" width="200">
+<img src="assets/logo.png" width="300">
 
 # Persian Radio Manager
 
@@ -43,6 +43,6 @@ Application screenshots are available here:
 
 <div align="center">
   
-<img src="assets/Screenshots.PNG" width="300">
+<img src="assets/Screenshots.PNG" width="700">
 
 </div>
