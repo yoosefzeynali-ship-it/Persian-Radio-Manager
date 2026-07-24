@@ -40,3 +40,4 @@ The goal of this project is to allow users to install and manage Persian radio s
 # 🖥 Screenshots
 
 Application screenshots are available here:
+<img src="assets/Screenshots.png" width="140">
